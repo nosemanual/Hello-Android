@@ -1,2 +1,2 @@
 # Hello-Android
-nope
+I'm going to learn something about Android.
